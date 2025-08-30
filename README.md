@@ -1,4 +1,3 @@
-# capstone-dpr-salary-analysis
 # Analysis of Public Opinion on DPR Salary Issue
 ## Project Overview
 This project analyzes public sentiment and opinion on the issue of DPR (Dewan Perwakilan Rakyat) members' salaries in Indonesia. The analysis is conducted using scraped tweets from X, focusing on discussions about DPR salary, performance, ethics, and transparancy.
